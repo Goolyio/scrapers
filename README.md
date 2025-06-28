@@ -35,6 +35,7 @@ Please help maintain alphabetical order.
 - [Nutch](#nutch) [(link)](http://nutch.apache.org/)
 - [Outwit Hub](#outwit-hub) [(link)](http://www.outwit.com/products/hub/)
 - [Octoparse](#octoparse) [(link)](http://www.octoparse.com/)
+- [Proxy Sentinel](#proxy-sentinel) [(link)](https://www.proxysentinel.io)
 - [rvest](#rvest) [(link)](https://github.com/hadley/rvest)
 - [scrape-it](#scrape-it) [(link)](https://github.com/IonicaBizau/scrape-it)
 - [Scraper.AI](#scraper-ai) [(link)](https://scraper.ai)
@@ -320,6 +321,16 @@ turn it into structured data (CSV, Excel, etc.).
 ### [Octoparse](http://www.octoparse.com)
 
 **Description**: The free web scraping tool for extracting all the web page data into several structured file formats easily and effectively.
+
+**Applicable Language(s)**
+
+---
+
+---
+
+### [Proxy Sentinel](https://www.proxysentinel.io)
+
+**Description**: A self-managed proxy rotator and analytics tool to cut proxy costs
 
 **Applicable Language(s)**
 
